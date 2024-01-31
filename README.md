@@ -1,11 +1,14 @@
-[![MasterHead](https://github.com/SaMMYFrosT221b/Demo/assets/64640663/b81c6757-a941-4c77-82bc-d2215738915d)](https://github.com/SaMMYFrosT221b)
+[![MasterHead](https://github.com/SaMMYFrosT221b/SaMMYFrosT221b/assets/64640663/bb4786c3-8e35-4b89-80c2-045567110c36)](https://github.com/SaMMYFrosT221b)
 
 <h1 align="center">Hi 👋, I'm Ratnakar Gautam</h1>
 <h3 align="center">A passionate Full Stack Developer and Competitive Programming from India</h3>
 <img align="right" alt="Development" width="400" src="https://github.com/SaMMYFrosT221b/Demo/assets/64640663/1c20c114-eba9-4837-8e98-f62ce34ed99e">
 
 # 💫 About Me:
-🔭 I’m currently working on Placeent Cordinator of IIT BHILAI<br><br>💬 Ask me about Full Stack development, C++, PYTHON<br><br>📫 How to reach me ratnakarg@iitbhilai.ac.in
+🔭 I’m currently working on Food Delivery System at IIT BHILAI<br><br>💬 Ask me about Full Stack development, C++, PYTHON<br><br>📫 How to reach me ratnakarg@iitbhilai.ac.in
+
+
+[![](https://visitcount.itsvg.in/api?id=SaMMYFrosT221b&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -18,8 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaMMYFrosT221b&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaMMYFrosT221b&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaMMYFrosT221b&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -30,7 +31,5 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=SaMMYFrosT221b&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
