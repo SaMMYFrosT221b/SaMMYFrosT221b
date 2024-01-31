@@ -1,13 +1,16 @@
-[![MasterHead](https://github.com/SaMMYFrosT221b/Demo/blob/main/download.jpeg)](https://github.com/SaMMYFrosT221b)
+[![MasterHead](https://github.com/SaMMYFrosT221b/Demo/assets/64640663/b81c6757-a941-4c77-82bc-d2215738915d)](https://github.com/SaMMYFrosT221b)
+<!--![wp5318385](https://github.com/SaMMYFrosT221b/Demo/assets/64640663/b81c6757-a941-4c77-82bc-d2215738915d)-->
+
 <h1 align="center">Hi 👋, I'm Ratnakar Gautam</h1>
 <h3 align="center">A passionate Full Stack Developer and Competitive Programming from India</h3>
-<img align="right" alt="Development" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+<img align="right" alt="Development" width="400" src="https://github.com/SaMMYFrosT221b/Demo/assets/64640663/1c20c114-eba9-4837-8e98-f62ce34ed99e">
+<!-- <img align="right" alt="Development" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyfrost221b&label=Profile%20views&color=0e75b6&style=flat" alt="sammyfrost221b" /> </p>
 
-- 🔭 I’m currently working on **Robotics Club of IIT BHILAI**
+- 🔭 I’m currently working on **Placeent Cordinator of IIT BHILAI**
 
-- 💬 Ask me about **WEB development, C++, PYTHON**
+- 💬 Ask me about **Full Stack development, C++, PYTHON**
 
 - 📫 How to reach me **ratnakarg@iitbhilai.ac.in**
 
